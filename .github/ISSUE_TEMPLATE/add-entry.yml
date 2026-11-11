@@ -1,0 +1,40 @@
+name: Add an entry
+description: Suggest a widget, tool, library or guide for the list
+title: "Add: "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: Repository, bot (t.me/...) or article
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Example Widget
+        - Bot you can try
+        - Developer Tool
+        - Library / SDK support
+        - Template / Starter
+        - Docs / Guide / Article
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One sentence on what it does
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: It uses Telegram HTML widgets (Bot API 10.4), not the Login Widget or a website widget
+          required: true
+        - label: It has public source code or can be tried in Telegram today
+          required: true

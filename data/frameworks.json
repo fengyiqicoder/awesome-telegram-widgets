@@ -1,0 +1,218 @@
+[
+ {
+  "name": "node-telegram-bot-api",
+  "lang": "JS/TS",
+  "stars": "9.2k",
+  "status": "released",
+  "evidence": "v2.4.0 (2026-11-09)",
+  "url": "https://github.com/yagop/node-telegram-bot-api"
+ },
+ {
+  "name": "puregram + @puregram/widgets",
+  "lang": "TS",
+  "stars": "210",
+  "status": "released",
+  "evidence": "puregram 3.11.0 / widgets 3.0.0",
+  "url": "https://github.com/puregram/puregram"
+ },
+ {
+  "name": "Telegram.Bot",
+  "lang": "C#",
+  "stars": "3.6k",
+  "status": "released",
+  "evidence": "NuGet 22.10.4",
+  "url": "https://github.com/TelegramBots/Telegram.Bot"
+ },
+ {
+  "name": "Telegram.BotAPI",
+  "lang": "C#",
+  "stars": "181",
+  "status": "released",
+  "evidence": "v10.4",
+  "url": "https://github.com/Eptagone/Telegram.BotAPI"
+ },
+ {
+  "name": "go-telegram/bot",
+  "lang": "Go",
+  "stars": "1.9k",
+  "status": "released",
+  "evidence": "v1.28.0",
+  "url": "https://github.com/go-telegram/bot"
+ },
+ {
+  "name": "OvyFlash/telegram-bot-api",
+  "lang": "Go",
+  "stars": "149",
+  "status": "merged",
+  "evidence": "PR #89 (no tags)",
+  "url": "https://github.com/OvyFlash/telegram-bot-api"
+ },
+ {
+  "name": "swift-telegram-bot",
+  "lang": "Swift",
+  "stars": "269",
+  "status": "released",
+  "evidence": "10.4.0",
+  "url": "https://github.com/nerzh/swift-telegram-bot"
+ },
+ {
+  "name": "phptg/bot-api",
+  "lang": "PHP",
+  "stars": "131",
+  "status": "released",
+  "evidence": "0.23",
+  "url": "https://github.com/phptg/bot-api"
+ },
+ {
+  "name": "westacks/telebot",
+  "lang": "PHP",
+  "stars": "310",
+  "status": "released",
+  "evidence": "4.11.0",
+  "url": "https://github.com/westacks/telebot"
+ },
+ {
+  "name": "vendelieu/telegram-bot",
+  "lang": "Kotlin",
+  "stars": "249",
+  "status": "released",
+  "evidence": "9.8.0",
+  "url": "https://github.com/vendelieu/telegram-bot"
+ },
+ {
+  "name": "gramiojs/types",
+  "lang": "TS",
+  "stars": "16",
+  "status": "released",
+  "evidence": "types v10.4.0 (framework: issue #38)",
+  "url": "https://github.com/gramiojs/types"
+ },
+ {
+  "name": "mtcute",
+  "lang": "TS",
+  "stars": "590",
+  "status": "merged",
+  "evidence": "code on main",
+  "url": "https://github.com/mtcute/mtcute"
+ },
+ {
+  "name": "telegramium",
+  "lang": "Scala",
+  "stars": "95",
+  "status": "merged",
+  "evidence": "PR #720, not released",
+  "url": "https://github.com/apimorphism/telegramium"
+ },
+ {
+  "name": "telego",
+  "lang": "Go",
+  "stars": "1.1k",
+  "status": "merged",
+  "evidence": "on main, not tagged",
+  "url": "https://github.com/mymmrac/telego"
+ },
+ {
+  "name": "gotd/td",
+  "lang": "Go",
+  "stars": "2.4k",
+  "status": "merged",
+  "evidence": "PR #1947, not released",
+  "url": "https://github.com/gotd/td"
+ },
+ {
+  "name": "telegrinder",
+  "lang": "Python",
+  "stars": "70",
+  "status": "merged",
+  "evidence": "#481, not released",
+  "url": "https://github.com/timoniq/telegrinder"
+ },
+ {
+  "name": "TDLib",
+  "lang": "C++",
+  "stars": "9.3k",
+  "status": "merged",
+  "evidence": "commits, no tag",
+  "url": "https://github.com/tdlib/td"
+ },
+ {
+  "name": "aiogram",
+  "lang": "Python",
+  "stars": "5.9k",
+  "status": "pr",
+  "evidence": "PR #2004 open (use widgetgram meanwhile)",
+  "url": "https://github.com/aiogram/aiogram"
+ },
+ {
+  "name": "gotgbot",
+  "lang": "Go",
+  "stars": "725",
+  "status": "pr",
+  "evidence": "#303\u2013#305 open",
+  "url": "https://github.com/PaulSonOfLars/gotgbot"
+ },
+ {
+  "name": "rubenlagus/TelegramBots",
+  "lang": "Java",
+  "stars": "5.6k",
+  "status": "pr",
+  "evidence": "#1612 open",
+  "url": "https://github.com/rubenlagus/TelegramBots"
+ },
+ {
+  "name": "java-telegram-bot-api",
+  "lang": "Java",
+  "stars": "2.0k",
+  "status": "pr",
+  "evidence": "#441 open",
+  "url": "https://github.com/pengrad/java-telegram-bot-api"
+ },
+ {
+  "name": "nutgram",
+  "lang": "PHP",
+  "stars": "759",
+  "status": "pr",
+  "evidence": "#1019 open",
+  "url": "https://github.com/nutgram/nutgram"
+ },
+ {
+  "name": "python-telegram-bot",
+  "lang": "Python",
+  "stars": "29.6k",
+  "status": "none",
+  "evidence": "no activity yet (PyPI 22.8)",
+  "url": "https://github.com/python-telegram-bot/python-telegram-bot"
+ },
+ {
+  "name": "grammY",
+  "lang": "TS",
+  "stars": "3.8k",
+  "status": "none",
+  "evidence": "no activity yet (1.46.0)",
+  "url": "https://github.com/grammyjs/grammY"
+ },
+ {
+  "name": "pyTelegramBotAPI",
+  "lang": "Python",
+  "stars": "8.8k",
+  "status": "none",
+  "evidence": "no activity yet",
+  "url": "https://github.com/eternnoir/pyTelegramBotAPI"
+ },
+ {
+  "name": "teloxide",
+  "lang": "Rust",
+  "stars": "4.3k",
+  "status": "none",
+  "evidence": "no activity yet",
+  "url": "https://github.com/teloxide/teloxide"
+ },
+ {
+  "name": "Telegraf",
+  "lang": "TS",
+  "stars": "9.2k",
+  "status": "none",
+  "evidence": "dormant since 2024",
+  "url": "https://github.com/telegraf/telegraf"
+ }
+]
